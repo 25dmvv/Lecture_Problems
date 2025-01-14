@@ -22,9 +22,6 @@ finalResult = product(sumResult)
 
 print ("The final result is: ", finalResult)
 
-
- 
- 
  
  
  
